@@ -58,6 +58,41 @@ Le but est d’identifier les **influenceurs**, les **communautés** et les **op
 
 ---
 
+# 🎯 Déploiement du Meilleur Modèle avec Streamlit
+
+Le meilleur modèle entraîné pour la classification de sentiments a été déployé dans une interface **Streamlit** simple, rapide et interactive.
+
+### ✔️ Fonctionnalités :
+- Saisie d’un tweet
+- Prédiction instantanée du sentiment
+- Probabilités associées à chaque classe
+- Interface web moderne et intuitive
+
+### 📸 Captures du déploiement Streamlit :
+
+<img width="575" height="487" alt="negatif" src="https://github.com/user-attachments/assets/ad47ab39-cd93-490a-9095-5c4d8b655bd7" />
+
+<img width="627" height="478" alt="positif" src="https://github.com/user-attachments/assets/6d882871-b6da-4901-984d-5754d4269cf7" />
+
+---
+
+# 🎯 Chatbot RAG avec Gradio
+
+Un chatbot intelligent a été développé en utilisant **Gradio** et la méthode **RAG** (Retrieval-Augmented Generation).  
+Il permet d’interagir avec les tweets indexés pour répondre à des questions liées aux sentiments, sujets populaires ou influenceurs.
+
+### ✔️ Capacités :
+- Réponses contextuelles générées automatiquement
+- Interface conversationnelle simple et accessible
+
+### 📸 Capture du chatbot Gradio :
+
+<img width="615" height="532" alt="chatboat" src="https://github.com/user-attachments/assets/11c8f070-d6d0-4bf9-bb5e-f15f4fe1ac31" />
+
+
+
+---
+
 ## 👩‍💻 Auteurs
 👤 **Mariem Boudhina**  
 🎓 Engineering Student in Business Intelligence  
